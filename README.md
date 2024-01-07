@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aman8429
-- 👀 I’m interested in ..coding.
-- 🌱 I’m currently learning .c++..
+- 👀 I’m interested in ..frontend development.
+- 🌱 I’m currently learning .react..
 - 💞️ I’m looking to collaborate on . projects..
 - 📫 How to reach me ...
 
